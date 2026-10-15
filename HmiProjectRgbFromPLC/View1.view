@@ -1,0 +1,24 @@
+<div
+  id="View1_1"
+  data-tchmi-type="TcHmi.Controls.System.TcHmiView"
+  data-tchmi-top="0"
+  data-tchmi-left="0"
+  data-tchmi-width-mode="Content"
+  data-tchmi-min-width="100"
+  data-tchmi-min-width-unit="%"
+  data-tchmi-height-mode="Content"
+  data-tchmi-min-height="100"
+  data-tchmi-min-height-unit="%"
+  data-tchmi-background-image-height="100"
+  data-tchmi-background-image-width="100"
+  data-tchmi-background-image-height-unit="%"
+  data-tchmi-background-image-width-unit="%"
+><div id="TcHmiEllipse_1" data-tchmi-type="TcHmi.Controls.Beckhoff.TcHmiEllipse" data-tchmi-height="75" data-tchmi-height-unit="px" data-tchmi-left="620" data-tchmi-left-unit="px" data-tchmi-top="63" data-tchmi-top-unit="px" data-tchmi-width="150" data-tchmi-width-unit="px" data-tchmi-fill-color="%f%colorSelector(%s%ADS.PLC1.MAIN.blue%/s%)%/f%">
+</div>
+<div id="TcHmiEllipse_2" data-tchmi-type="TcHmi.Controls.Beckhoff.TcHmiEllipse" data-tchmi-height="75" data-tchmi-height-unit="px" data-tchmi-left="444" data-tchmi-left-unit="px" data-tchmi-top="63" data-tchmi-top-unit="px" data-tchmi-width="150" data-tchmi-width-unit="px">
+</div>
+<div id="TcHmiEllipse_3" data-tchmi-type="TcHmi.Controls.Beckhoff.TcHmiEllipse" data-tchmi-height="75" data-tchmi-height-unit="px" data-tchmi-left="271" data-tchmi-left-unit="px" data-tchmi-top="63" data-tchmi-top-unit="px" data-tchmi-width="150" data-tchmi-width-unit="px">
+</div>
+<div id="TcHmiEllipse_4" data-tchmi-type="TcHmi.Controls.Beckhoff.TcHmiEllipse" data-tchmi-height="75" data-tchmi-height-unit="px" data-tchmi-left="94" data-tchmi-left-unit="px" data-tchmi-top="63" data-tchmi-top-unit="px" data-tchmi-width="150" data-tchmi-width-unit="px">
+</div>
+</div>
